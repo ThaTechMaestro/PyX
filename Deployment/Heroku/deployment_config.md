@@ -18,7 +18,7 @@ heroku config:set API_KEY:replace_with_actual_key
 ## Possible Errors and Fixes
 * Fix: Update npm to latest version
 
-<img src="Deployment/Heroku/Screenshots/Hulu_Error1.png"
+<img src="Screenshots/Hulu_Error1.png"
      alt="Initial GET request"
      style="float: left; margin-right: 10px;" />
 
